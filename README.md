@@ -1,10 +1,8 @@
-# antralabs-ai
-Antra AI Soon
+# 👋 Welcome to AntraLabs
 
+We are building decentralized AI infrastructure for the future.
 
-# AntraLabs
-
-**AntraLabs** is building the future of **Web3 x AI Infrastructure**.
-
-🚀 Launching soon...  
-📩 Stay connected: [https://AntraLabs.com](https://AntraLabs.com)
+🔬 Focus: Web3 x Artificial Intelligence  
+🚀 Launching Products Soon  
+🌐 Website Soon : https://AntraLabs.com  
+📬 Contact: hello@AntraLabs.com
